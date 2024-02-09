@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25cdfed3-dfb9-4557-a1bc-d7b1bfe9a807" name="Changes" comment="Tester 6996">
+    <list default="true" id="25cdfed3-dfb9-4557-a1bc-d7b1bfe9a807" name="Changes" comment="Documentation still needed. Basic program working.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/cards_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/cards_program.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +70,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.cards_classes.executor": "Run",
+    "Python.cards_program.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Assignment__1",
@@ -76,6 +80,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "copyright",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -97,7 +102,8 @@
       <workItem from="1707307318540" duration="797000" />
       <workItem from="1707308123396" duration="479000" />
       <workItem from="1707412769866" duration="264000" />
-      <workItem from="1707413041100" duration="303000" />
+      <workItem from="1707413041100" duration="598000" />
+      <workItem from="1707484464418" duration="3027000" />
     </task>
     <task id="LOCAL-00001" summary="Tester 6996">
       <option name="closed" value="true" />
@@ -123,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707308176397</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Documentation still needed. Basic program working.">
+      <option name="closed" value="true" />
+      <created>1707413540938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707413540938</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +162,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tester 6996" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tester 6996" />
+    <MESSAGE value="Documentation still needed. Basic program working." />
+    <option name="LAST_COMMIT_MESSAGE" value="Documentation still needed. Basic program working." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Init_To_Winnit$cards_classes.coverage" NAME="cards_classes Coverage Results" MODIFIED="1707486323512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Init_To_Winnit$cards_program.coverage" NAME="cards_program Coverage Results" MODIFIED="1707487906426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
